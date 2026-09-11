@@ -1,0 +1,7 @@
+node_modules/
+dist/
+# Local-only model override (personal setting, never published).
+gpt-imagegen.config.json
+*.log
+.DS_Store
+*.tsbuildinfo
